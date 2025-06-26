@@ -22,7 +22,7 @@ Preprocessed green trip dataset including:
 
 ---
 
-### 2. data_preprocessing
+### 2. Data Preprocessing
 Handles:
 - Loading raw data
 - Feature engineering (rush hour/weekend flags)
@@ -30,22 +30,20 @@ Handles:
 
 ---
 
-### 3. algorithm
+### 3. Algorithm
 Contains:
 - Linear Regression implementation
 - Model training on selected features
 
-### 4. evaluation
+### 4. Evaluation
 Handles:
 - Test set prediction
 - Metrics like:
   - **Mean Squared Error (MSE)**
   - **R-squared (R²)**
 - Visualization:
-  - Trip Duration Distribution
-  - Distance vs Duration Scatter
-  - Duration by Hour Barplot
-  - Weekend vs Weekday Boxplot
+  - Scatter plot
+  - Residual plot
 
 ---
 
