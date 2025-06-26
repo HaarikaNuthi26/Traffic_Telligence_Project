@@ -35,6 +35,8 @@ Contains:
 - Linear Regression implementation
 - Model training on selected features
 
+---
+
 ### 4. Evaluation
 Handles:
 - Test set prediction
