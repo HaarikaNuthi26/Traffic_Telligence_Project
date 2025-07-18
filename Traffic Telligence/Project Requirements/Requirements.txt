@@ -1,0 +1,9 @@
+Necessary Libraries:
+Pandas
+Numpy
+Matplotlib
+Seaborn
+Scikit learn
+Streamlit
+
+Dataset: green-tripdata-2025-03.csv
